@@ -16,9 +16,6 @@ public class Client(ILogger<Client> logger)
     {
         logger.LogInformation(3, "League Of Legends Current Patch: {ReturnVersionAsync}", await ClientVersion());
 
-       // await QuitCustomLobby();
-
-
          await CrashLobby();
     }
 
