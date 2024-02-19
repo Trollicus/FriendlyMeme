@@ -6,3 +6,8 @@ League of Legends Lobby crashing method
 I do not take full credentials for the method.
 
 Educational Purposes.
+
+### Usage
+
+- just run after everyone has selected champs
+- doesn't work on custom games
