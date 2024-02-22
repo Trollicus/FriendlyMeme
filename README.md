@@ -7,6 +7,9 @@ I do not take full credentials for the method.
 
 Educational Purposes.
 
+as of 2/21/2024 11 AM UTC+2, Riot Games has officialy patched the method,
+gj that old RTPM sucked anyways.
+
 ### Usage
 
 - just run after everyone has selected champs
